@@ -130,5 +130,5 @@ body {
 }
 
 .disabled-keys span{
-    
+    opacity: 0;
 }
